@@ -10,7 +10,7 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6288804947282]
+global.owner = ['6288804947282']
 global.premium = ['6288804947282']
 global.ownernomer = '6288804947282'
 global.ownername = 'Humanz Official'
