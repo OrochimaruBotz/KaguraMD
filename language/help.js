@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *HumanzzZ*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -406,7 +406,7 @@ exports.menusimpel = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *HumanzzZ*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -973,7 +973,7 @@ exports.thanksto = () => {
   *≻* Riy Botz
   *≻* Deff
   *≻* Sanzy
-  *≻* Nekel
+  *≻* HumanzzZ
   *≻* Bagas Prdn
 `
 }
